@@ -1,0 +1,16 @@
+# build output
+build/
+*.apk
+*.idsig
+
+# local signing material (keep this out of git)
+keystore/
+
+# fetched third-party binaries (run ./scripts/fetch-deps.sh)
+third_party/ffmpegkit/*
+!third_party/ffmpegkit/NOTICE.md
+
+# editor / os
+.DS_Store
+*.log
+local.properties
