@@ -1,7 +1,7 @@
 # Security audit — VideoSplitterClean.apk 3.4.0
 
 Artifact: `VideoSplitterClean.apk`
-SHA-256: `f0eb7d8cb83ce1b9476b2729bbcf19bdbbf04734dc4575012b4cfb994c15abd9`
+SHA-256: `722312804dfec7cac6bab8ad9e71526fbaed21188b4fe505ffabc5ae563d2095`
 Package: `com.opensplit.videosplitter` 3.4.0 (code 6)
 
 Re-audited 2026-11-18 after the in-app player changes.
